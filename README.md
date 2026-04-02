@@ -29,13 +29,13 @@ An AI-powered Tax Assistant built using Python and Streamlit that helps users ca
 #  Project Structure
 
 ```
-tax-chatbot-new/
-?
-??? app.py             
-??? backend.ipynb      
-??? requirements.txt    
-??? README.md           
-??? assets/             
+tax-chatbot-new
+
+ app.py             
+ backend.ipynb      
+ requirements.txt    
+ README.md           
+ assets             
 ```
 
 ---
