@@ -31,11 +31,11 @@ An AI-powered Tax Assistant built using Python and Streamlit that helps users ca
 ```
 tax-chatbot-new/
 ?
-??? app.py              # Streamlit UI
-??? backend.ipynb       # Notebook logic
-??? requirements.txt    # Dependencies
-??? README.md           # Project documentation
-??? assets/             # (Optional) Screenshots & images
+??? app.py             
+??? backend.ipynb      
+??? requirements.txt    
+??? README.md           
+??? assets/             
 ```
 
 ---
