@@ -6,12 +6,12 @@ An AI-powered Tax Assistant built using Python and Streamlit that helps users ca
 
 #  Features
 
-- ?? Income tax calculation based on slabs
-- ?? Old vs New tax regime comparison
-- ?? Rule-based intelligent chatbot
-- ?? Answers tax-related queries (80C, TDS, ITR, etc.)
-- ?? Tax-saving suggestions
-- ??? Interactive Streamlit UI
+-  Income tax calculation based on slabs
+-  Old vs New tax regime comparison
+-  Rule-based intelligent chatbot
+-  Answers tax-related queries (80C, TDS, ITR, etc.)
+-  Tax-saving suggestions
+-  Interactive Streamlit UI
 
 ---
 
@@ -42,7 +42,7 @@ tax-chatbot-new/
 
 #  How to Run Locally
 
-## 1?? Clone the repository
+## 1 Clone the repository
 
 ```bash
 git clone https://github.com/your-username/tax-chatbot-new.git
