@@ -42,7 +42,7 @@ tax-chatbot-new
 
 #  How to Run Locally
 
-## 1 Clone the repository
+## 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/tax-chatbot-new.git
@@ -51,7 +51,7 @@ cd tax-chatbot-new
 
 ---
 
-## 2 Create virtual environment (optional but recommended)
+## 2. Create virtual environment (optional but recommended)
 
 ```bash
 python -m venv venv
@@ -71,7 +71,7 @@ source venv/bin/activate
 
 ---
 
-## 3 Install dependencies
+## 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ---
 
-## 4 Run the Streamlit app
+## 4. Run the Streamlit app
 
 ```bash
 streamlit run app.py
